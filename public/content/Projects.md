@@ -40,11 +40,12 @@ This is a note-taking website that enables users to categorize their notes with 
 
 ## React To-Do list
 This is a website for users to keep track of their tasks build by ReactJS.
-- ![600x200](../assets/Screenshot%202024-08-12%20at%2010.02.16 PM.png)
+- ![600x200](../assets/Screenshot%202024-08-13%20at%2011.50.49 PM.png)
 - Tags: Category 3
 - Badges:
   - ReactJS [blue]
   - CSS [blue]
+  - MaterialUI [blue]
 - Buttons:
   - Link [https://react-to-do-list-ashen.vercel.app/]
 
